@@ -1,5 +1,6 @@
 # etl-project
-ETL Project for Data Analytics Boot Camp  
+ETL: Extract, Transform, Load Project
+Data Analytics Boot Camp  
 
 Repository files include Jupyter notebook for data transformation
   
