@@ -1,7 +1,8 @@
 # etl-project
 ETL Project for Data Analytics Boot Camp  
 
-Jupyter notebook for data transformation  
+Repository files include Jupyter notebook for data transformation
+  
 Merged files from multiple sources* to create Dataframes  
 -Artists and Popularity Measures  
 -Artists and Titles  
