@@ -1,2 +1,2 @@
-# etl-project
-ETL Project for Data Analytics Boot Camp
+# ETL-Project
+Extract, Transform, Load
