@@ -1,16 +1,4 @@
 Artist,Title,views,delimiter count
-Lecrae ,Broke ,104565,1
-The Maccabeats ,Candles on the Sill ,922695,1
-Nicki Minaj,Chun-Li,667433581,1
-Jason Derulo ,Colors-The Coca Cola Anthem for the 2018 World Cup,166594232,1
-Ed Sheeran & Anne-Marie,Fairytale Of New York,1092539,1
-JAY-Z,Family Feud ft. Beyoncé,28375589,1
-Tessa Violet,Interlude III-original song,169393,1
-Alex Aiono ft T-Pain,One At A Time,668645,1
-alt-J,Pleader,2769646,1
-"Milo Manheim, Meg Donnelly ",Someday  Ballad (From ZOMBIES),9163169,1
-Anne-Marie,Then,1726336,1
-Marshmello & Anne-Marie,Friends,72272515,1
 Childish Gambino ,This Is America,3758488765,1
 Ariana Grande ,No Tears Left To Cry,1576959172,1
 "Becky G, Natti Natasha ",Sin Pijama,1182971286,1
@@ -21,6 +9,7 @@ Maluma ,Marinero,803455479,1
 Taylor Swift ,Delicate,766773238,1
 Maluma ,El Préstamo,748060352,1
 Daddy Yankee ,Hielo (Video Oficial),735203270,1
+Nicki Minaj,Chun-Li,667433581,1
 Drake ,Nice For What,583521598,1
 Ed Sheeran ,Happier,569737075,1
 "Luis Fonsi, Demi Lovato ",Échame La Culpa,534738794,1
@@ -56,6 +45,7 @@ Eminem ,River ft. Ed Sheeran,190959638,1
 Charlie Puth ,BOY,181630232,1
 Diplo ,Color Blind (feat. Lil Xan),176874297,1
 "The Chainsmokers, Drew Love ",Somebody,168682097,1
+Jason Derulo ,Colors-The Coca Cola Anthem for the 2018 World Cup,166594232,1
 Demi Lovato ,Tell Me You Love Me,162205906,1
 Calum Scott ,What I Miss Most,159043663,1
 Imagine Dragons ,Next To Me,155876025,1
@@ -93,6 +83,7 @@ Rudy Mancuso & Juanpa Zurita,Terrible Magicians,76093302,1
 Dan + Shay ,Speechless (Wedding Video),73213624,1
 Carrie Underwood ,The Champion ft. Ludacris,72462589,1
 The Chainsmokers ,You Owe Me,72284782,1
+Marshmello & Anne-Marie,Friends,72272515,1
 Pentatonix, Attention,72222190,1
 Prince ,Nothing Compares 2 U,70170796,1
 Bebe Rexha ,Ferrari,65536375,1
@@ -145,6 +136,7 @@ Justin Timberlake ,Pepsi Super Bowl LII Halftime Show,30542398,1
 Sam Smith ,One Last Song,30274314,1
 Halsey ,Sorry,29834129,1
 "Mustard, Nick Jonas ",Anywhere,29818604,1
+JAY-Z,Family Feud ft. Beyoncé,28375589,1
 Kelly Clarkson ,I Don't Think About You,27440862,1
 Martin Garrix & David Guetta ,So Far Away (feat. Jamie Scott & Romy Dya),27250257,1
 Meghan Trainor ,Let You Be Right,27105426,1
@@ -253,6 +245,7 @@ Charlie Puth (feat. Boyz II Men) ,If You Leave Me Now (Studio Session),9376747,1
 Chris Brown ,On Purpose ft. AGNEZ MO,9361727,1
 Don Diablo ,Higher ft  Betty Who | ,9302190,1
 Kacey Musgraves ,Space Cowboy,9203022,1
+"Milo Manheim, Meg Donnelly ",Someday  Ballad (From ZOMBIES),9163169,1
 John Newman ,Fire In Me,9136937,1
 Noah Cyrus ,We Are... ft. MØ,8938720,1
 Marshmello ,TELL ME,8836953,1
@@ -347,6 +340,7 @@ Lewis Capaldi ,Rush ft. Jessie Reyez,2807018,1
 Enth E Nd ,Linkin Park,2800035,1
 Vance Joy ,Call If You Need Me,2796176,1
 Imagine Dragons ,Thunder,2771397,1
+alt-J,Pleader,2769646,1
 "Imagine Dragons, Miss Congeniality ",Whatever It Takes (Miss Congeniality Remix/),2717668,1
 Bon Jovi ,When We Were Us,2714342,1
 Meng Jia & Jackson Wang (孟佳 & 王嘉尔）,MOOD ,2661336,1
@@ -388,6 +382,7 @@ Sigrid ,Strangers,1824117,1
 Liam Payne ,Bedroom Floor (Live Acoustic),1787999,1
 The Beatles ,Something,1776501,1
 Lindsey Stirling ,Christmas C'mon feat. Becky G,1745181,1
+Anne-Marie,Then,1726336,1
 The Floppotron: Toto ,Africa,1715221,1
 Vance Joy  ,We're Going Home,1709562,1
 SZA x Calvin Harris ,The Weekend (Funk Wav Remix),1706043,1
@@ -432,6 +427,7 @@ Scotty McCreery ,In Between,1152025,1
 HAIM ,Night So Long (Live At The Greek),1128822,1
 Chris Stapleton ,Midnight Train To Memphis (Live From SNL Studios/2018),1120382,1
 BØRNS ,I Don't Want U Back,1111096,1
+Ed Sheeran & Anne-Marie,Fairytale Of New York,1092539,1
 Keith Urban ,Female,1088414,1
 Nick Jonas ,Find You,1079800,1
 Josh Groban ,Happy Xmas (War Is Over),1079744,1
@@ -444,6 +440,7 @@ Luke Bryan ,Hooked On It,944211,1
 The Vamps ,Same To You (Acoustic),940982,1
 Incubus ,Loneliest,933242,1
 Tove Lo ,cycles “”,930627,1
+The Maccabeats ,Candles on the Sill ,922695,1
 Matt and Kim ,FOREVER ,922543,1
 Kesha ,We R Who We R (Live from Honda Stage at Hollywood Palladium),900366,1
 Kip Moore ,Last Shot,857590,1
@@ -464,6 +461,7 @@ Wallows ,Pictures of Girls,700538,1
 Bleachers ,Alfie's Song (Not So Typical Love Song),692242,1
 HANSON ,Finally It's Christmas,688533,1
 Ellie Goulding ,O Holy Night,677047,1
+Alex Aiono ft T-Pain,One At A Time,668645,1
 CYN ,Only With You,665088,1
 Kelly Clarkson ,Miss Independent / Love So Soft,663022,1
 Have Yourself A Merry Little Christmas (ft. Tori Kelly) ,Jacob Collier,662097,1
@@ -510,12 +508,14 @@ Clean Bandit ,I Miss You feat. Julia Michaels in the Radio 1 Live Lounge,215568,
 Sheryl Crow ,The Dreaming Kind,204105,1
 Marteen ,We Cool,188200,1
 Mod Sun ,address on the internet,180919,1
+Tessa Violet,Interlude III-original song,169393,1
 Little Big Town with Jimmy Webb ,Wichita Lineman,159222,1
 John Legend ,A Good Night ft. BloodPop®,159011,1
 Neil Young + Promise of The Real ,Already Great,149839,1
 Kesha ,Learn To Let Go in the Live Lounge,145078,1
 The Script ,Arms Open (Benny Benassi x MazZz & Rivaz Remix),139427,1
 Ciara ,Santa Baby (Taraji's White Hot Holidays 2017),109664,1
+Lecrae ,Broke ,104565,1
 Lissie ,Blood and Muscle,101583,1
 Tracey Thorn ,Queen,101406,1
 Enter Shikari ,The Sights,99619,1
